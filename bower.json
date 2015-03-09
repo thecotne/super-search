@@ -1,0 +1,20 @@
+{
+  "name": "super-search",
+  "main": "super-search.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/thecotne/super-search",
+  "authors": [
+    "cotne nazarashvili <cotne.95@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "~1.16.0"
+  }
+}
